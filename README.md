@@ -1,5 +1,5 @@
 # MoleMash
-**Version0.1**
+**Version 0.1**
 * Touch sensor
 * Hit Score
 * Miss Score
